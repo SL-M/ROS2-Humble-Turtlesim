@@ -1,4 +1,4 @@
-# ROS 2 Humble – Turtlesim Manipulation Guide
+# ROS 2 Humble – Turtlesim
 
 ## 📌 Overview
 This project demonstrates how to install, run, and manipulate the **Turtlesim** package in **ROS 2 Humble**.  
